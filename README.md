@@ -1,9 +1,10 @@
-Welcome!
+# Welcome!
 
-Be default, you're working under the git 'main/master' branch. It is best recommended to create your own branch and merge changes.
+## Be default, you're working under the git 'main/master' branch. It is best recommended to create your own branch and merge changes.
 
-Below are some git commands for reference:
+## Below are some git commands for reference:
 
+```
 1.) git clone <insert repo.git>   #this will clone remote repo to your local shell  
 2.) git pull  ##this will ensure that you are fully syncronized with the remote branch   
 3.) git branch test-branch  ##this will create a new branch called 'test-branch'  
@@ -15,3 +16,4 @@ Below are some git commands for reference:
 9.) git status  ##this will show you your untracked changes and your present working branch  
 10) git push  ##this will push all the changes you have done to the master branch  
 
+```
