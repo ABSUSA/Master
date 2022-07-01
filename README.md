@@ -12,6 +12,6 @@ Below are some git commands for reference:
 6.) git checkout test-branch  ##this will switch you from 'master' branch to the 'test-branch'  
 7.) git checkout master  ##once you have completed work under 'test-branch' you can switch back to the 'master' branch  
 8.) git merge test-branch  ##any work you completed under test-branch, those changes will now be merged to 'master' branch
-9.) git status  ##this will show you your untracked changes and your present working branch  
-10) git push  ##this will push all the changes you have done to the master branch 
+9.) git status  ##this will show you your untracked changes and your present working branch    
+10) git push  ##this will push all the changes you have done to the master branch  
 
