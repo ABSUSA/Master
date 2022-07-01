@@ -4,7 +4,7 @@
 
 ## Below are some git commands for reference:
 
-```
+
 - `git clone` *insert repo.git*  ##this will clone remote repo to your local shell  
 - `git pull`  ##this will ensure that you are fully syncronized with the remote branch   
 - `git branch` test-branch  ##this will create a new branch called 'test-branch'  
@@ -16,6 +16,3 @@
 - `git status`  ##this will show you your untracked changes and your present working branch  
 - `git push`  ##this will push all the changes you have done to the master branch  
 - `git branch -d test-branch`  ##this will now delete the branch you had created
- 
-
-```
